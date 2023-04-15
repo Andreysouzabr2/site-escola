@@ -1,0 +1,171 @@
+header{
+    position: absolute;
+width: 1440px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+background: #024059;
+
+}
+.comeco1{
+    position: absolute;
+width: 1440px;
+height: 198px;
+left: 0px;
+top: 35px;
+
+background: #023E73;
+}
+.corpo{
+    position: absolute;
+width: 1395px;
+height: 788px;
+left: 45px;
+top: 233px;
+
+background: linear-gradient(180deg, #023E73 0%, rgba(217, 204, 193, 0.0309089) 74.48%, #D9CCC1 100%);
+
+}
+
+.palito-marrom{
+    position: absolute;
+width: 45px;
+height: 1855px;
+left: 0px;
+top: 189px;
+
+background: #8C503A;
+}
+
+.barra-mar{
+    position: absolute;
+    width: 1395px;
+    height: 90px;
+    left: 45px;
+    top: 934px;
+    
+    background: rgba(191, 100, 21, 0.4);
+}
+.parte-dois{
+    position: absolute;
+width: 1394px;
+height: 1024px;
+left: 46px;
+top: 1024px;
+
+background: linear-gradient(180deg, rgba(217, 204, 193, 0.145161) 17.19%, rgba(217, 204, 193, 0) 23.96%, #023E73 100%);
+
+}
+.quadrado1{
+    position: absolute;
+width: 354px;
+height: 632px;
+left: 72px;
+top: 1143px;
+
+background: url(a.webp)
+}
+.quadrado2{
+    position: absolute;
+width: 354px;
+height: 632px;
+left: 554px;
+top: 1143px;
+
+background: url(Adult\ talking\ cell\ phone-rafiki.png)
+}
+.quadrado3{
+    position: absolute;
+width: 354px;
+height: 632px;
+left: 1048px;
+top: 1143px;
+
+background: url(calendario1.webp)
+}
+.imagem1{
+    position: absolute;
+width: 800px;
+height: 552px;
+left: 58px;
+top: 323px;
+
+background: url(https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2020/11/03.gif?w=800)
+}
+.texto-titulo{
+    position: absolute;
+width: 521px;
+height: 464px;
+left: 893px;
+top: 350px;
+
+font-family: 'Asul';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+}
+.texto-titular{
+    position: absolute;
+width: 920px;
+height: 82px;
+left: 326px;
+top: 152px;
+
+font-family: 'Asul';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+}
+.link-1{
+    position: absolute;
+width: 252px;
+height: 82px;
+left: 90px;
+top: 1800px;
+
+font-family: 'Baloo 2';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
+.link-2{
+    position: absolute;
+width: 240px;
+height: 71px;
+left: 630px;
+top: 1800px;
+
+font-family: 'Baloo 2';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
+.link-3{
+    position: absolute;
+width: 294px;
+height: 64px;
+left: 1090px;
+top: 1800px;
+
+
+font-family: 'Baloo 2';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
